@@ -1,0 +1,9 @@
+name: DurabilityIncrease
+version: '${project.version}'
+main: more.mucho.durabilityincrease.DurabilityIncrease
+api-version: '1.20'
+author: 'Muchomore'
+commands:
+  setdur:
+permissions:
+  durabilityincrease.command:
